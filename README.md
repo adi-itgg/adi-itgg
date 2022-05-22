@@ -1,8 +1,8 @@
-[![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)](https://github.com/adi-itgg/)
+[![MasterHead](https://github.com/adi-itgg/adi-itgg/raw/main/android-banner.gif)](https://github.com/adi-itgg/)
 
 <h1 align="center">Hi 👋, I'm Syahdilla</h1>
 <h3 align="center">A passionate android developer from Indonesia</h3>
-<img align="right" alt="Android" width="400" src="https://github.com/adi-itgg/adi-itgg/raw/main/android-banner.gif" />
+<img align="right" alt="Android" width="400" src="https://github.com/adi-itgg/adi-itgg/raw/main/android-anim.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adi-itgg&label=Profile%20views&color=0e75b6&style=flat" alt="adi-itgg" /> </p>
 
