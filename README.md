@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adi-itgg&label=Profile%20views&color=0e75b6&style=flat" alt="adi-itgg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adi-itgg" alt="adi-itgg" /></a> </p>
-
 - 🌱 I’m currently learning **Android Kotlin Dagger Hilt**
 
 - 💬 Ask me about **Android, Java, Kotlin**
@@ -16,6 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/adi-syahdilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adi-syahdilla" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17752137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17752137" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
