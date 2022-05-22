@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Syahdilla</h1>
 <h3 align="center">A passionate android developer from Indonesia</h3>
-<img align="right" alt="Android" width="400" src="https://github.com/adi-itgg/adi-itgg/raw/main/android-anim.gif" />
+<img align="right" alt="Android" width="500" src="https://github.com/adi-itgg/adi-itgg/raw/main/android-anim.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adi-itgg&label=Profile%20views&color=0e75b6&style=flat" alt="adi-itgg" /> </p>
 
