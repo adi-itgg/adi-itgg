@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adi-itgg&label=Profile%20views&color=0e75b6&style=flat" alt="adi-itgg" /> </p>
 
-- 🌱 I’m currently learning **Android Kotlin Dagger Hilt, gRPC**
+- 🌱 I’m currently learning **Android Kotlin gRPC**
 
 - 💬 Ask me about **Android, Java, Kotlin**
 
